@@ -50,7 +50,7 @@ wget https://raw.githubusercontent.com/whunt1/ALP_Script/master/udp.pl
 
 [dstat.live](https://dstat.live/)
 
-dstat.cc[](https://dstat.cc/l4.php)
+[dstat.cc](https://dstat.cc/l4.php)
 
 什么？不知道用那里的机器发包？
 
