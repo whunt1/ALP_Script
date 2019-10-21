@@ -38,6 +38,8 @@ wget https://raw.githubusercontent.com/whunt1/ALP_Script/master/udp.pl
 
 要查看打出多少流量，可以访问下面几个测量的墙.
 
+## 测量网站
+
 [vedbex]( https://www.vedbex.com/tools/dstat )
 
 [ddosfilter]( http://ddosfilter.net/layer4.php )
@@ -47,6 +49,8 @@ wget https://raw.githubusercontent.com/whunt1/ALP_Script/master/udp.pl
 [toolsmania](https://www.toolsmania.net/dstat_layer4.php)
 
 [dstat.live](https://dstat.live/)
+
+dstat.cc[](https://dstat.cc/l4.php)
 
 什么？不知道用那里的机器发包？
 
